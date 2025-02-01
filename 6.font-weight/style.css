@@ -1,0 +1,27 @@
+
+a{
+    text-decoration: none;
+}
+h2{
+    font-weight: bold;
+    text-decoration: underline;
+}
+h3{
+    font-weight: 900;
+     text-decoration:green overline;
+}
+h4{
+    font-weight: 100;
+    text-decoration: red double;
+}
+h5{
+    font-weight: bolder;
+    text-decoration: line-through;
+}
+p{
+    color: rgb(17, 155, 22);
+    text-decoration: dashed;
+}
+a{
+    text-decoration: remove underline;
+}

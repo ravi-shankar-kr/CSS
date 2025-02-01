@@ -1,0 +1,13 @@
+h1{
+    color: firebrick; /* forground*/
+    background-color: aqua;   /* background*/
+}
+
+p{
+    color: blue;
+    background-color: cadetblue;
+}
+button{
+    color: forestgreen;
+    background-color: rgb(213, 185, 239);
+}

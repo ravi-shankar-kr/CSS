@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    text-align: right;
+    width: 50%;
+    border: solid;
+}
+
+h3{
+    text-align: end;
+    text-decoration: line-through;
+}
+h2{
+    text-align: start;
+}
+p{
+    text-align: justify;
+}
