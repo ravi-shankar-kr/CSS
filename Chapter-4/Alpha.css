@@ -1,0 +1,17 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(255, 0, 0, 1);
+    margin: 10px;
+}
+
+#alpha{
+    eight: 200px;
+    width: 200px;
+    background-color: rgb(255, 0, 0, 0.5);
+}
+
+#opacity{
+    background-color: #ffa600b2;
+    opacity: 0.78;
+}

@@ -1,19 +1,24 @@
-div{
+/* div{
     height: 200px;
     width: 600px;
     background-color: pink;
     border-width: 5px;
     border-style: solid;
-    border-color: black;
+    border-color: black; */
+    /* margin-bottom: 25px;
+    margin-left: 20px; */
+
+    /* margin: 10px 20px 30px ; */
+
 
     /* border-radius*/
-    border-radius: 15px;
-    border-top-right-radius: 50px;
+    /* border-radius: 15px;
+    border-top-right-radius: 50px; */
 
     /* padding */
-    padding-top: 10px;
+    /* padding-top: 10px;
     padding-left: 10px;
-}
+} */
 
 h1{
     border-style: dashed;
@@ -30,8 +35,22 @@ h1{
 
 button{
     border: 2px solid black;
-    /* border-radius: 10px; */
-    padding: 10px 25px 10px 20px;
-    /* padding-right: 25px; */
+    border-radius: 10px;
+    /* padding: 10px 25px 10px 20px; */
+    padding-left: 25px;
+    padding-right: 25px;
     background-color: chartreuse;
 }
+
+/* span{
+    display: block;
+    color: white;
+    background-color: #000;
+} */
+
+h2{
+    display: inline;
+    background-color:red;
+}
+
+ 
